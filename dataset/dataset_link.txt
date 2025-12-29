@@ -1,0 +1,9 @@
+Dataset Name: Lung Cancer Histopathological Images
+
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/andrewmvd/lung-cancer-histopathological-images
+
+Classes:
+- lung_aca (Adenocarcinoma)
+- lung_scc (Squamous Cell Carcinoma)
+- lung_n (Normal)
